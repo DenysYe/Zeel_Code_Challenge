@@ -1,0 +1,14 @@
+{
+  "id": "SR19760827202206208364",
+  "name": {
+
+    "firstName": "Awesome",
+    "lastName": "Tester"
+  },
+  "address": {
+    "street": "123 Ukr drive",
+    "city": "Kyiv",
+    "state": "UA",
+    "zip": "12345"
+  }
+}
